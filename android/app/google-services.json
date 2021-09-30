@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "578913528850",
+    "project_id": "plano-de-fundo",
+    "storage_bucket": "plano-de-fundo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:578913528850:android:052103eda538ff5c5b7ccb",
+        "android_client_info": {
+          "package_name": "com.example.plano_de_fundo_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "578913528850-dvjr11slln13bkq5bqq05t76dg1r0v0d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUmDNNxo0W1Ft6RHsOpgHT6Hm3g0h9f6k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "578913528850-dvjr11slln13bkq5bqq05t76dg1r0v0d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
